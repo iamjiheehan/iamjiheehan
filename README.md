@@ -1,13 +1,14 @@
 <h1 align='center'> Hi there 👋, I'm JIHEE HAN  👩‍💻 </h1>
 
 <p align='center'>
-  I live in GyeongGi, Korea 
+ <h4> I live in Korea </h4>
 </p>
 
 
 <p align='center'>
   <a href="www.linkedin.com/in/jiheehan1014"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:hatrix1014@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hans-j.tistory.com/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
 
 </p>
 
@@ -36,6 +37,4 @@
 <h4>💬  Sometimes I like to write things here...</h4>
  &nbsp;&nbsp;&nbsp;
 
-  <a href="https://hans-j.tistory.com/"><img src="https://img.shields.io/badge/-My%20Blog-17bf63?&style=for-the-badge&logo=blog&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;
-</p>
 
