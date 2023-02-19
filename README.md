@@ -4,6 +4,7 @@
  <h4> I live in Korea </h4>
 </p>
 
+<hr>
 
 <p align='center'>
   <a href="www.linkedin.com/in/jiheehan1014"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -31,10 +32,7 @@
 </p>
 
 
-<hr>
 
-<p align='right'>
-<h4>💬  Sometimes I like to write things here...</h4>
- &nbsp;&nbsp;&nbsp;
+
 
 
