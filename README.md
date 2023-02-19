@@ -30,6 +30,8 @@
 </p>
 
 
+<hr>
+
 <p align='right'>
 <h4>💬  Sometimes I like to write things here...</h4>
  &nbsp;&nbsp;&nbsp;
