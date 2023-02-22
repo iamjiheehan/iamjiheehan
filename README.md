@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm JIHEE HAN  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Jihee Han 👩‍💻 </h1>
 
 
 <p align='center'>
